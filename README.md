@@ -1,0 +1,2 @@
+# open_btc_auto_trade
+开源比特币自动交易机器人，基于ccxt框架，使用双均线与VPIN过滤无效交易，使用LSTM对价格趋势进行预测
